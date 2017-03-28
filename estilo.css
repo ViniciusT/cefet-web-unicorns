@@ -34,7 +34,9 @@ h1, h2, h3{
     font-family: Arial, sans-serif;
     font-weight: normal;
 }
-
+#verdade{
+    padding-right: 25px;
+}
 #verdade img{
     float: left;
     margin-right: 13px;
